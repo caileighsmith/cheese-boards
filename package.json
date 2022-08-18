@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "Multiverse Learning Products",
   "dependencies": {
+    "express": "^4.18.1",
     "jest": "^28.1.3",
     "sequelize": "^6.21.3",
     "sqlite3": "^5.0.11"
